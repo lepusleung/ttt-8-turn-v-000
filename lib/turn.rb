@@ -32,5 +32,3 @@ def turn(board)
   if valid_move?(board, index) == false
     puts "input again"
 end
-
-
